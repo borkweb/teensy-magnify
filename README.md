@@ -27,7 +27,7 @@ Parts:
 * [Teensy 2.0](http://www.pjrc.com/store/teensy.html)
 * [Mammoth 'Tall' Enclosure](http://www.mammothelectronics.com/4S1590BBT-p/500-1004.htm)
 * 33mm Buttons from [sparkfun electronics](https://www.sparkfun.com/products/9180)
-* USB cable from [monoprice.com](http://www.monoprice.com/products/product.asp?c_id=103&cp_id=10303&cs_id=1030302&p_id=3896&seq=1&format=2)
+* Mini USB cable from [monoprice.com](http://www.monoprice.com/products/product.asp?c_id=103&cp_id=10303&cs_id=1030302&p_id=3896&seq=1&format=2)
 * LENOX 1-1/8 inch Bi-Metal Arbored Hole Saw from [Lowe's](http://www.lowes.com) &mdash; _(to drill the holes)_
 * Rubber feet from the hardware store
 * Scavenged wire from an old computer fan
